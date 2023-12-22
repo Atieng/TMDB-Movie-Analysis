@@ -14,26 +14,26 @@ For this analysis I will be using TMDB_7000_Top_Rated_Movies and TMDB_10000_Popu
 
 #### Results
 
-- Barplots showing the most profitable genre
+- Results showing the most profitable genre
 ![Alt text](image.png)
 
 - Results showing as budget and the Revenue increases a movie company is likely have more success
 ![Alt text](image-1.png)
 
 - Results of the most profitable genre that is highly budgeted for.
-![Alt text](image-3.png)
+![Alt text](image-2.png)
 
 -Results showing the top 5 most rated movie Genres
-![Alt text](image-4.png)
+![Alt text](image-3.png)
 
 - Results showing the best month to produce films
-![Alt text](image-5.png)
+![Alt text](image-4.png)
 
 - Results of the most profitable producing Company
- ![Alt text](image-6.png)
+ ![Alt text](image-5.png)
 
 - Results showing the runtime that will maximize on profit
- ![Alt text](image-7.png) 
+ ![Alt text](image-6.png)
 
 #### Conclusion
 Final recommendation for the film making company:
