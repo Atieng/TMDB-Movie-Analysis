@@ -1,6 +1,6 @@
 ## Movie Analysis
+![Alt text](poster.jpeg)
 
-[image here](attachment:tmdb.webp)
 #### Overview
   This analysis is for a film making company that wants to emerge best at the box office. This analysis will help this company to know what features of the TMDB database to put in consideration in order to be more profitable.This analysis will focus on Genres,Release_Date,Revenue,Budget,Production_Companies,Runtime columns.
 
@@ -18,19 +18,22 @@ For this analysis I will be using TMDB_7000_Top_Rated_Movies and TMDB_10000_Popu
 ![Alt text](image.png)
 
 - Results showing as budget and the Revenue increases a movie company is likely have more success
-![Alt text](image-2.png)
+![Alt text](image-1.png)
 
 - Results of the most profitable genre that is highly budgeted for.
-![Alt text](image-6.png)
+![Alt text](image-3.png)
 
 -Results showing the top 5 most rated movie Genres
-![Alt text](image-7.png)
+![Alt text](image-4.png)
 
 - Results showing the best month to produce films
 ![Alt text](image-5.png)
 
 - Results of the most profitable producing Company
- ![Alt text](image-9.png) 
+ ![Alt text](image-6.png)
+
+- Results showing the runtime that will maximize on profit
+ ![Alt text](image-7.png) 
 
 #### Conclusion
 Final recommendation for the film making company:
@@ -61,4 +64,3 @@ Further analyses could yield additional insights to further improve operations a
 - Priority on this analysis is based on relationship among the  Top_10 genres, Ratings, Best Month,Runtime and Production   Companies.
 - Conduct analysis on a related dataset to find other recomendations for the film making to improve analysis of the company
 - Marketing plays a big part in movie sucess.Examing this data could give insights on how audiences respond to different       marketing techniques when promoting a movie.
-
