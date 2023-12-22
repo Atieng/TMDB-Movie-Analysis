@@ -30,10 +30,10 @@ For this analysis I will be using TMDB_7000_Top_Rated_Movies and TMDB_10000_Popu
 ![Alt text](image-4.png)
 
 - Results of the most profitable producing Company
- ![Alt text](image-5.png)
+![Alt text](image-5.png)
 
 - Results showing the runtime that will maximize on profit
- ![Alt text](image-6.png)
+![Alt text](image-6.png)
 
 #### Conclusion
 Final recommendation for the film making company:
