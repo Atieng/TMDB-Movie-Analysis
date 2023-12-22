@@ -14,7 +14,7 @@ For this analysis I will be using TMDB_7000_Top_Rated_Movies and TMDB_10000_Popu
 
 #### Results
 
-- Results showing the most profitable genre
+- Results showing the top 10 most profitable genre
 ![Alt text](image.png)
 
 - Results showing as budget and the Revenue increases a movie company is likely have more success
